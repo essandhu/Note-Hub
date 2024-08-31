@@ -1,7 +1,7 @@
 # Note Hub
 
-Simple app for creating and saving Sticky Notes
-Try it out [here!]()
+Simple app for creating and saving Sticky Notes<br/><br/>
+Try it out [here!](https://note-hub-rouge.vercel.app/)
 
 ## Features
 
