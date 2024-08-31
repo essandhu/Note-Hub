@@ -1,4 +1,4 @@
-# Sticky Notes
+# Note Hub
 
 Simple app for creating and saving Sticky Notes
 Try it out [here!]()
