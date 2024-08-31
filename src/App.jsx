@@ -1,5 +1,5 @@
-import NotesPage from './pages/NotesPage'
-import NotesProvider from './context/NoteContext'
+import NotesPage from "./pages/NotesPage";
+import NotesProvider from "./context/NoteContext";
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
         <NotesPage />
       </NotesProvider>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
